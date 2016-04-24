@@ -1,0 +1,59 @@
+{
+  "groups": [
+    {
+      "name": "jhipster",
+      "sourceType": "com.mycompany.myapp.config.JHipsterProperties",
+      "type": "com.mycompany.myapp.config.JHipsterProperties"
+    },
+    {
+      "name": "jhipster.async",
+      "sourceMethod": "getAsync()",
+      "sourceType": "com.mycompany.myapp.config.JHipsterProperties",
+      "type": "com.mycompany.myapp.config.JHipsterProperties$Async"
+    },
+    {
+      "name": "jhipster.cache",
+      "sourceMethod": "getCache()",
+      "sourceType": "com.mycompany.myapp.config.JHipsterProperties",
+      "type": "com.mycompany.myapp.config.JHipsterProperties$Cache"
+    },
+    {
+      "name": "jhipster.datasource",
+      "sourceMethod": "getDatasource()",
+      "sourceType": "com.mycompany.myapp.config.JHipsterProperties",
+      "type": "com.mycompany.myapp.config.JHipsterProperties$Datasource"
+    },
+    {
+      "name": "jhipster.http",
+      "sourceMethod": "getHttp()",
+      "sourceType": "com.mycompany.myapp.config.JHipsterProperties",
+      "type": "com.mycompany.myapp.config.JHipsterProperties$Http"
+    },
+    {
+      "name": "jhipster.mail",
+      "sourceMethod": "getMail()",
+      "sourceType": "com.mycompany.myapp.config.JHipsterProperties",
+      "type": "com.mycompany.myapp.config.JHipsterProperties$Mail"
+    },
+    {
+      "name": "jhipster.metrics",
+      "sourceMethod": "getMetrics()",
+      "sourceType": "com.mycompany.myapp.config.JHipsterProperties",
+      "type": "com.mycompany.myapp.config.JHipsterProperties$Metrics"
+    },
+    {
+      "name": "jhipster.security",
+      "sourceMethod": "getSecurity()",
+      "sourceType": "com.mycompany.myapp.config.JHipsterProperties",
+      "type": "com.mycompany.myapp.config.JHipsterProperties$Security"
+    },
+    {
+      "name": "jhipster.swagger",
+      "sourceMethod": "getSwagger()",
+      "sourceType": "com.mycompany.myapp.config.JHipsterProperties",
+      "type": "com.mycompany.myapp.config.JHipsterProperties$Swagger"
+    }
+  ],
+  "hints": [],
+  "properties": []
+}

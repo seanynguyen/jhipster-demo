@@ -1,0 +1,9 @@
+/home/thanh-anh-tuan/Workplace/PersonalProjects/jhipster-sample-app/src/test/java/com/mycompany/myapp/web/rest/UserResourceIntTest.java
+/home/thanh-anh-tuan/Workplace/PersonalProjects/jhipster-sample-app/src/test/java/com/mycompany/myapp/web/rest/AuditResourceIntTest.java
+/home/thanh-anh-tuan/Workplace/PersonalProjects/jhipster-sample-app/src/test/java/com/mycompany/myapp/security/SecurityUtilsUnitTest.java
+/home/thanh-anh-tuan/Workplace/PersonalProjects/jhipster-sample-app/src/test/java/com/mycompany/myapp/web/rest/TestUtil.java
+/home/thanh-anh-tuan/Workplace/PersonalProjects/jhipster-sample-app/src/test/java/com/mycompany/myapp/service/UserServiceIntTest.java
+/home/thanh-anh-tuan/Workplace/PersonalProjects/jhipster-sample-app/src/test/java/com/mycompany/myapp/web/rest/LabelResourceIntTest.java
+/home/thanh-anh-tuan/Workplace/PersonalProjects/jhipster-sample-app/src/test/java/com/mycompany/myapp/web/rest/BankAccountResourceIntTest.java
+/home/thanh-anh-tuan/Workplace/PersonalProjects/jhipster-sample-app/src/test/java/com/mycompany/myapp/web/rest/AccountResourceIntTest.java
+/home/thanh-anh-tuan/Workplace/PersonalProjects/jhipster-sample-app/src/test/java/com/mycompany/myapp/web/rest/OperationResourceIntTest.java

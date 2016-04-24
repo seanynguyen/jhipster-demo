@@ -1,0 +1,12 @@
+{
+    "sampleapplicationApp": {
+        "friend" : {
+            "home": {
+                "title": "friends"
+            },
+            "name": "Name",
+            "email": "Email",
+            "status": "Status"
+        }
+    }
+}
